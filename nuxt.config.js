@@ -15,6 +15,14 @@ export default {
     ]
   },
 
+  generate: {
+    routes: [
+      '/posts/balut',
+      '/posts/whereIsIt',
+      '/posts/how'
+    ]
+  },
+  
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '~/assets/styles.css'
